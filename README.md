@@ -1,3 +1,4 @@
+#AuthorChallenge
 
 In this challenge, the REST API contains information about a collection of users and articles they created. Given the threshold value, the goal is to use the API to get the following
 
